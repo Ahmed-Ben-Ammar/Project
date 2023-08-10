@@ -40,6 +40,8 @@ my-20 {
   background: #333;
   overflow: auto;
   line-height: 1.7em;
+  position: fixed;
+  width: 100%;
 
 }
 
