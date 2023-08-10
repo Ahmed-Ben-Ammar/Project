@@ -1,0 +1,83 @@
+.header nav h1 {
+  float: none;
+  text-align: center;
+}
+
+.header nav ul {
+  float: none;
+}
+
+.header nav ul li {
+  float: none;
+}
+
+.header nav ul li a {
+  padding: 10px;
+  text-align: center;
+}
+
+
+/*******************  Paragraphe 1 Toute l'expertise Tunisian dans in Café **************************/
+
+
+.vp-content h1 {
+
+  font-size: 30px;
+}
+
+.vp-content p {
+  margin: 10px
+}
+
+
+/****************************** SECTION 3 Global   **************************/
+.global {
+  padding: 100px 10px 100px 10px;
+}
+
+
+.vp1 {
+  margin: 0px 10px 0px 10px;
+
+}
+
+.vp-content-1 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+/*************** Section VP 2 ***********************/
+
+.vp2 {
+  padding: 100px 10px 100px 10px;
+}
+
+
+
+/******************************* Where . html *****************/
+
+.where-img {
+  width: 100%;
+  padding: 0px 30px 0px 30px;
+
+}
+
+.where-text {
+  width: 100%;
+  padding: 50px 30px 0px 30px;
+  font-size: 15px;
+  text-align: center;
+}
+
+
+/******************************* Contact . html *****************/
+
+.contact {
+
+  padding: 70px 30px 0px 30px;
+}
+
+.contact .form1 h1 {
+
+  font-size: 19px;
+}
